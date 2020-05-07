@@ -5,7 +5,7 @@
   <a href="https://github.com/muslayev/icecat-win64/releases" target="_blank"><img src="https://img.shields.io/github/downloads/muslayev/icecat-win64/total.svg"></a>
 </p>
 
-# Unofficial IceCat builds for Windows x64 (Installer + Portable)
+# Unofficial IceCat builds for Windows x64
 ### Download
 [The latest version](https://github.com/muslayev/icecat-win64/releases)<br />
 ### Changes
@@ -15,10 +15,8 @@
 [GNU FTP](https://ftp.gnu.org/gnu/gnuzilla)<br />
 [Fedora Project FTP](https://src.fedoraproject.org/lookaside/pkgs/icecat/)<br />
 [Fedora Package Sources](https://src.fedoraproject.org/rpms/icecat/), thanks to [Sagitter](https://fedoraproject.org/wiki/User:Sagitter)<br />
-### Installer
-To check and download the latest version, use menu `Tools > [GIT Releases] Download the latest version`
+### How to Update
+Use the menu `Tools > [GIT Releases] Download the latest version`
 ![screenshot](https://raw.githubusercontent.com/muslayev/iceweasel-win64/master/update.png)
-### Portable
-Launcher `start.exe` is created in [Lazarus](https://www.lazarus-ide.org/).
 ### Chocolatey package manager
 Available [here](https://chocolatey.org/packages/icecat).
