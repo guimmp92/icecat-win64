@@ -16,5 +16,4 @@
 [Fedora Project FTP](https://src.fedoraproject.org/lookaside/pkgs/icecat/)<br />
 [Fedora Package Sources](https://src.fedoraproject.org/rpms/icecat/), thanks to [Sagitter](https://fedoraproject.org/wiki/User:Sagitter)<br />
 ### How to Update
-From the menu `Tools > [GIT Releases] Download the latest version`
 ![screenshot](https://raw.githubusercontent.com/muslayev/iceweasel-win64/master/update.png)
