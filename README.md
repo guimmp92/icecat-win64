@@ -7,7 +7,7 @@
 
 # Unofficial IceCat builds for Windows x64
 ### Download
-[The latest version](https://github.com/muslayev/icecat-win64/releases)<br />
+[The latest version](https://github.com/muslayev/icecat-win64/releases)<br /> or use [Chocolatey package manager](https://chocolatey.org/packages/icecat).
 ### Changes
 - Build [options](https://github.com/muslayev/iceweasel-win64/blob/master/src/mozconfig)
 - Update extension
@@ -18,5 +18,3 @@
 ### How to Update
 From the menu `Tools > [GIT Releases] Download the latest version`
 ![screenshot](https://raw.githubusercontent.com/muslayev/iceweasel-win64/master/update.png)
-### Chocolatey package manager
-Available [here](https://chocolatey.org/packages/icecat).
